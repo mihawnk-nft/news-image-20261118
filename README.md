@@ -10,11 +10,30 @@ An entry for the [make.fun](https://make.fun/c/news-image-20261118) bounty
 ## The image
 
 `entry.png` is one 1024×1024 picture of Wednesday 18 November 2026,
-built from 55 reported stories of that day, from every region and beat:
-the Kerch Bridge second strike, the Hormuz tanker mines and the third
-US carrier, the Xi–Trump–Putin Shenzhen meeting, the Pentagon's ninth
-failed audit, and 51 more — each drawn as its own small panel with a
-short label, under a header naming the day.
+built from 46 reported stories of that day, from 7 regions — every story
+first reported on 18 November, each checked against its source and its
+date:
+
+- **Xi greets Trump on the tarmac in Shenzhen**, the first airport welcome
+  Xi has given a visiting leader; the Trump–Xi–Putin tri-summit follows
+  on Thursday.
+- **Kuwait and Bahrain intercept Iranian drones** aimed at US forces,
+  reported overnight; the US strike on Qeshm was Tuesday, so it is not
+  shown as Wednesday's news.
+- **Voyager 1 reaches one light-day from Earth** — 25.9 billion km, the
+  farthest any human-made object has ever been.
+- The EU proposes a **€45bn loan to fund Kyiv in 2027**; Russia fires
+  141 drones at Ukraine and 126 are downed; the Fed minutes point to
+  more hikes and the Dow falls 1.1%; **GTA VI goes on sale** after a
+  13-year wait; Cyclone Akvan bears down on Odisha; Anthropic prices
+  its IPO at $83 a share — and 35 more stories.
+
+The page is built to read at three sizes: the date and the three lead
+stories at thumbnail size, 11 hand-drawn illustrations at half size,
+all 46 stories at full size. It carries a UTC timeline, a world map
+with numbered pins, per-story source tags, and a DATE CHECK box listing
+what was left out because it was first reported on 17 November, and
+what was not yet news on Wednesday.
 
 ## How it runs
 
